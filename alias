@@ -1,0 +1,7 @@
+alias please="sudo"
+alias whack="kill -9"
+alias pong="ping -c 5"
+alias c="clear"
+alias distro="cat /etc/*-release"
+alias zshconfig="vim ~/.zshrc"
+alias newterm="exec /usr/bin/zsh"
