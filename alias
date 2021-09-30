@@ -110,3 +110,6 @@ alias newterm="exec /usr/bin/zsh"
 alias hg='history | grep'
 alias gh='history | grep'
 alias python="python3"
+alias osk="/usr/bin/onboard &"
+alias nosk="killall onboard"
+
