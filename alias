@@ -6,3 +6,5 @@ alias distro="cat /etc/*-release"
 alias zshconfig="vim ~/.zshrc"
 alias newterm="exec /usr/bin/zsh"
 alias python="python3"
+alias hg='history | grep'
+alias gh='history | grep'
