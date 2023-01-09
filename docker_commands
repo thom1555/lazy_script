@@ -1,0 +1,3 @@
+docker run -it --name rlinux -d rockylinux:9-minimal
+
+docker exec -it --user root rlinux /bin/bash
